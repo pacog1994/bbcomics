@@ -1,8 +1,8 @@
 # bbcomics
-<h2>retail site prototype
-<h3>GUI project - simulating a retail website
+<h3>retail site prototype
+GUI project - simulating a retail website
 
-<h2>Development Process
+Development Process
 1. Low Fidelity Wireframe using Balsamiq
 2. High Fidelity Mockup with html and css
 3. Adding Javascript elements
