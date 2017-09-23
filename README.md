@@ -11,3 +11,5 @@
 <h5>5. AJAX synchronization for user validation
 <h5>6. SVG Visuals
 
+Configured to work on localhost
+
